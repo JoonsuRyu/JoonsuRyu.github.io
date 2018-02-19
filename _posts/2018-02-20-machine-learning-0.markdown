@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning - 0. Introduction"
-date:   2015-02-20 00:13:54 +0900
+date:   2018-02-20 00:13:54 +0900
 categories: Machine Learning
 ---
 
