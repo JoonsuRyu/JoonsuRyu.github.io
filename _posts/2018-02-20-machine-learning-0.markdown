@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Machine Learning - 0. Introduction"
-date:   2018-02-20 00:13:54 +0900
-categories: MachineLearning
+date:   2018-02-20 00:25:54 +0900
+categories: Machine_Learning
+
 ---
 
 안녕하세요, 블로그를 만들고 첫 게시물을 올린지도 벌써 5일이나 지났네요.
@@ -14,6 +15,10 @@ categories: MachineLearning
 혹시나 이 책을 찾는 분이 계실까봐 책의 사진도 아래에 첨부하였습니다.
 
 ![](../img/learningfromdata.jpg)
+
+
+
+
 
 이 책은 칼텍의 Abu-Mostafa 교수님이 쓰신 책입니다. 물론 칼텍의 기계학습 수업에서는 이 책을 사용하고 있습니다.
 
