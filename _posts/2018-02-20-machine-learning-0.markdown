@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning - 0. Introduction"
 date:   2018-02-20 00:13:54 +0900
-categories: Machine Learning
+categories: MachineLearning
 ---
 
 안녕하세요, 블로그를 만들고 첫 게시물을 올린지도 벌써 5일이나 지났네요.
