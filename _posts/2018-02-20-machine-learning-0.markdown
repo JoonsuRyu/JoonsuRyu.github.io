@@ -14,7 +14,7 @@ categories: Machine_Learning
 
 혹시나 이 책을 찾는 분이 계실까봐 책의 사진도 아래에 첨부하였습니다.
 
-![](https://github.com/JoonsuRyu/joonsuryu.github.io/blob/master/img/learningfromdata.jpg)
+![](../img/learningfromdata.jpg)
 
 
 
