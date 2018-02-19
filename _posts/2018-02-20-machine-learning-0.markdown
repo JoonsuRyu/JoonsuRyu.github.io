@@ -13,9 +13,9 @@ categories: Machine_Learning
 아무래도 어려운 책을 먼저 정리하기 보다는 입문 단계부터 시작하는 것이 좋을 것이라 생각했기 때문에 기계학습을 처음 공부할 때 많이 읽는 책인 Learning from Data로 결정하였습니다.
 
 혹시나 이 책을 찾는 분이 계실까봐 책의 사진도 아래에 첨부하였습니다.
-<center>
+{: refdef: style="text-align: center;"}
 ![](https://github.com/JoonsuRyu/joonsuryu.github.io/blob/master/img/learningfromdata.jpg)
-</center>
+{: refdef}
 
 
 
