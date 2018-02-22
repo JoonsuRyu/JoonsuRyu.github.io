@@ -10,15 +10,15 @@ categories: Machine_Learning
 
 그 동안 저는 처음으로 정리할 책을 고르고 있었습니다.
 
-아무래도 어려운 책을 먼저 정리하기 보다는 입문 단계부터 시작하는 것이 좋을 것이라 생각했기 때문에 기계학습을 처음 공부할 때 많이 읽는 책인 Learning from Data로 결정하였습니다.
+아무래도 어려운 책을 먼저 정리하기 보다는 입문 단계부터 시작하는 것이 좋을 것이라 생각했기 때문에 많은 기계학습 교재 중에 그나마 쉽다고 생각하는 Learning from Data로 결정하였습니다.
 
 혹시나 이 책을 찾는 분이 계실까봐 책의 사진도 아래에 첨부하였습니다.
 
-![learningfromdata](https://user-images.githubusercontent.com/35926730/36386209-58125072-15d8-11e8-962c-58a0d3acaf53.jpg)
 
 
 
 
+![learningfromdata](https://user-images.githubusercontent.com/35926730/36386209-58125072-15d8-11e8-962c-58a0d3acaf53.jpg){: .center}
 
 
 이 책은 칼텍의 Abu-Mostafa 교수님이 쓰신 책입니다. 물론 칼텍의 기계학습 수업에서는 이 책을 사용하고 있습니다.
@@ -29,7 +29,7 @@ categories: Machine_Learning
 
 이 책의 장점을 말하자면 일단 굉장히 짧습니다. (-_-)
 
-보통 기계학습을 배우는 사람들에게 추천되는 책은 Murphy 책이라던가 Bishop 책이 많이들 추천되고 있는데요, 물론 이 책들 모두 좋은 책들입니다만 이 책들의 분량은 정말 상상을 초월할 정도로 길어서 이 책으로 시작을 하신다면 읽다 지쳐 학을 떼실 거라 생각합니다.
+보통 기계학습을 배우는 사람들에게 추천되는 책은 대표적으로 Murphy 책이나 Bishop 책 등이 있는데요, 물론 이 책들 모두 좋은 책들입니다만 이 책들의 분량은 정말 상상을 초월할 정도로 길어서 이 책으로 시작을 하신다면 읽다 지쳐 학을 떼실 거라 생각합니다.
 
 Murphy의 Machine Learning : Probabilistic Perspect는 무려 1200여 페이지를 자랑하고, Bishop의 Pattern Recognition and Machine Learning도 700페이지에 달하는 두꺼운 책입니다.
 
@@ -43,7 +43,7 @@ Murphy의 Machine Learning : Probabilistic Perspect는 무려 1200여 페이지�
 
 위에서 언급한 칼텍 강의자료/유튜브 강의 영상을 보시면 Neural Networks(Lecture 10), Support Vector Machines(Lecture 14), Kernel Methods(Lecture 15), Radial Basis Functions(Lecture 16) 강의가 분명 존재하지만, 책에는 이 부분들이 생략되어 있습니다.
 
-정말 아쉽게도 이 부분은 강의자료와 강의영상만 보시면서 공부하셔야 합니다. 사실 한 챕터당 약 100분 정도만 강의하시는데 이정도 분량이면 충분히 책에 넣을만 하지 않았을까.. 라는 의문이 들기도 합니다.
+정말 아쉽게도 이 부분은 강의자료와 강의영상만 보시면서 공부하셔야 합니다. 사실 한 챕터당 약 100분 정도만 강의하시는데 이정도 분량이면 충분히 책에 넣을만 하지 않았을까라는 의문이 들기도 합니다만...
 
 만약 책을 구입하시게 되면 책에 나와있는 비밀 계정(?)으로 Neural Networks와 Support Vector Machines까지는 pdf파일을 제공해주지만, 나머지 두 챕터는 어쩔 수 없이 강의자료와 영상만으로 공부하고 넘어가셔야 합니다.
 
