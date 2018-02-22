@@ -17,9 +17,9 @@ categories: Machine_Learning
 
 
 
-
-![learningfromdata](https://user-images.githubusercontent.com/35926730/36386209-58125072-15d8-11e8-962c-58a0d3acaf53.jpg){: .center}
-
+<br>
+<center><img src="https://user-images.githubusercontent.com/35926730/36386209-58125072-15d8-11e8-962c-58a0d3acaf53.jpg"></center>
+<br>
 
 이 책은 칼텍의 Abu-Mostafa 교수님이 쓰신 책입니다. 물론 칼텍의 기계학습 수업에서는 이 책을 사용하고 있습니다.
 
