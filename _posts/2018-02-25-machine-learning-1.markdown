@@ -142,7 +142,7 @@ Data는 당신이 지금까지 카드를 발급하거나 거부했던 지원자�
 <center><img src="https://user-images.githubusercontent.com/35926730/36638766-6cc92a92-1a40-11e8-8811-21c12949da94.jpg"></center>
 <br>
 
-Hypothesis Set은 이 데이터를 통해 함수 g를 구할 수 있는 후보입니다. 가령 모든 지원자들의 카드 발급을 거부한다는 것도 하나의 Hypothesis라고 볼 수 있겠죠. 이런 Hypothesis들의 집합이 바로 Hypothesis Set입니다. 쉽게 얘기하자면, "정답 후보들"이라고 이해하시면 됩니다.
+Hypothesis Set은 이 데이터를 통해 함수 $g$를 구할 수 있는 후보입니다. 가령 모든 지원자들의 카드 발급을 거부한다는 것도 하나의 Hypothesis라고 볼 수 있겠죠. 이런 Hypothesis들의 집합이 바로 Hypothesis Set입니다. 쉽게 얘기하자면, "정답 후보들"이라고 이해하시면 됩니다.
 
 이제 당신은 정답(이라고 생각되는 것)을 구하기 위해 당신이 갖고있는 데이터와 이런 가설을 묶어 Learning Algorithm을 사용해 Final Hypothesis를 결과물로 도출합니다.
 
