@@ -120,11 +120,11 @@ comedy를 나타내는 원의 크기보다 action을 나타내는 원의 크기�
 
 $y$는 해당 Input $\mathbf{x}$에 대한 결과입니다. 카드를 발급해준다면 $y = +1$, 그렇지 않다면 $y = -1$ 입니다.
 
-그리고 Input $\mathbf{x}$와 결과 $y$를 완벽하게 매칭한 함수 $f$가 있다고 가정해봅시다. 앞에서도 언급했듯이, 이 함수는 당연히 구할 수 없습니다. 당신은 이 함수를 찾는 것이 목적이므로, 이 함수의 이름을 Target function이라 부릅니다.
+그리고 Input $\mathbf{x}$와 결과 $y$를 완벽하게 매칭한 함수 $f$가 있다고 가정해봅시다. 앞에서도 언급했듯이, 이 함수는 당연히 구할 수 없습니다. 당신은 이 함수를 찾는 것이 목적이므로, 이 함수의 이름을 <b>Target function</b>이라 부릅니다.
 
 Data는 당신이 지금까지 카드를 발급하거나 거부했던 지원자들의 목록입니다. 이를 기반으로 새로운 지원자의 카드 발급 여부를 결정할 것입니다.
 
-이를 통하여 당신의 목적은 ($f$라고 예상되는) Hypothesis function $g$를 도출하는 것입니다.
+이를 통하여 당신의 목적은 ($f$라고 예상되는) <b>Hypothesis function</b> $g$를 도출하는 것입니다.
 
 <br>
 <center><img src="https://user-images.githubusercontent.com/35926730/36638763-679b932a-1a40-11e8-91a2-98b6f0c3378e.jpg"></center>
@@ -136,7 +136,7 @@ Data는 당신이 지금까지 카드를 발급하거나 거부했던 지원자�
 
 하지만 지금까지 당신이 근무하면서 카드를 발급해주거나 거부했던 기록들은 모두 이 함수 $f$로부터 도출된 데이터라고 볼 수 있겠죠?
 
-이 기록들을 Training Examples, 또는 Training Sample, Training Set 등으로 부릅니다.
+이 기록들을 <b>Training Examples</b>, 또는 Training Sample, Training Set 등으로 부릅니다.
 
 <br>
 <center><img src="https://user-images.githubusercontent.com/35926730/36638766-6cc92a92-1a40-11e8-8811-21c12949da94.jpg"></center>
@@ -148,7 +148,7 @@ Hypothesis Set은 이 데이터를 통해 함수 $g$를 구할 수 있는 후보
 
 Learning Algorithm이라는 것은 앞으로 배울 Perceptron Learning Algorithm이라던가, Neural Network라던가, Support Vector Machine 등을 일컫는 말입니다.
 
-이 두가지를 합쳐 "Learning Model" 이라 부릅니다.
+이 두가지를 합쳐 "<b>Learning Model</b>" 이라 부릅니다.
 
 당연히 Final Hypothesis는 이들 중에 가장 정확도가 높은(당신이 갖고있는 데이터에 가장 잘 들어맞는) 것을 고르는 것이겠죠.
 
@@ -206,7 +206,7 @@ $w_0$은 어차피 threshold 값이라 $x_0$가 의미 없으므로, 편의상 $
 
 그럼 이 Perceptron에서 가중치 벡터 $\mathbf{w}$를 구하는 것이 목적이 되었습니다.
 
-여기서는 간단한 알고리즘인 Perceptron Learning Algorithm (PLA)을 설명합니다.
+여기서는 간단한 알고리즘인 <b>Perceptron Learning Algorithm</b> (PLA)을 설명합니다.
 
 알고리즘을 시작하기 전에, 가중치 벡터 $\mathbf{w}$는 임의의 값으로 초기화합니다. (일반적으로 영벡터로 초기화하는 것이 가장 무난합니다)
 
@@ -272,7 +272,7 @@ $$
 <center><img src="https://user-images.githubusercontent.com/35926730/36638779-a84fce86-1a40-11e8-9be3-3011ae8dce2a.jpg"></center>
 <br>
 
-지도학습(Supervised Learning)이란 사람이 데이터를 학습시킬 때 Input $\mathbf{x}$와 정답 $y$를 주고 학습시키는 방법입니다.
+지도학습(<b>Supervised Learning</b>)이란 사람이 데이터를 학습시킬 때 Input $\mathbf{x}$와 정답 $y$를 주고 학습시키는 방법입니다.
 
 이 예제에서는 자판기에서 사용되는 동전 분류 방법을 제시하고 있습니다.
 
@@ -286,7 +286,7 @@ $$
 <center><img src="https://user-images.githubusercontent.com/35926730/36638780-ad08cf36-1a40-11e8-82d5-9211dad6c4a7.jpg"></center>
 <br>
 
-비지도학습(Unsupervised Learning)은 지도학습과는 다르게 Input $\mathbf{x}$만 주고 이에 대한 정답 $y$를 주지 않는 방법입니다.
+비지도학습(<b>Unsupervised Learning</b>)은 지도학습과는 다르게 Input $\mathbf{x}$만 주고 이에 대한 정답 $y$를 주지 않는 방법입니다.
 
 물론, 동전의 크기와 질량을 기준으로 위의 슬라이드와 같이 명확하게 구분할 수는 있지만, 어느 분포가 어느 액수의 동전인지를 구분할 수 없습니다.
 
@@ -298,7 +298,7 @@ $$
 <center><img src="https://user-images.githubusercontent.com/35926730/36638782-b222f050-1a40-11e8-9f24-a35791f3dba3.jpg"></center>
 <br>
 
-마지막으로 강화학습(Reinforcement Learning)은 지도학습이나 비지도학습과는 전혀 다른 구조를 갖고 있습니다.
+마지막으로 강화학습(<b>Reinforcement Learning</b>)은 지도학습이나 비지도학습과는 전혀 다른 구조를 갖고 있습니다.
 
 일단 이 방법도 앞의 두 방법과 마찬가지로 Input $\mathbf{x}$가 주어집니다. 그러나 이 Input에 대해 정답이 주어지는 것이 아니라 이것이 얼마나 괜찮은지에 대한 평가를 하게 됩니다.
 
@@ -336,5 +336,5 @@ $$
 
 <br><br>
 
-|저도 배우고 있는 학생이라 잘못 이해한 부분이 있을 수 있습니다.|
-|질문이나 틀린 부분에 대한 지적을 댓글로 달아주시면 최대한 빨리 답변해드리겠습니다.|
+|<b><center>저도 배우고 있는 학생이라 잘못 이해한 부분이 있을 수 있습니다.</center></b>|
+|<b><center>질문이나 틀린 부분에 대한 지적을 댓글로 달아주시면 최대한 빨리 답변해드리겠습니다.</center></b>|
