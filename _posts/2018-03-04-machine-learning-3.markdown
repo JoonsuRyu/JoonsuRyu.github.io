@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning - 3. Linear Models I"
-date:   2018-03-04 12:20:32 +0900
+date:   2018-03-04 18:26:35 +0900
 categories: Machine_Learning
 tags: Linear_Classification PLA Pocket_Algorithm Linear_Regression Pseudo-Inverse 
 mathjax: true
